@@ -23,11 +23,11 @@
     </li>
     <li>
       <key>InteractingWithTraders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Drafting</key>
-      <value>0.7470065</value>
+      <value>1</value>
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
@@ -39,11 +39,11 @@
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BillsTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>OpeningComms</key>
@@ -131,7 +131,7 @@
     </li>
     <li>
       <key>ForbiddingDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CoverAndShooting</key>
@@ -211,7 +211,7 @@
     </li>
     <li>
       <key>ClickingMessages</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ShotAccuracyTooltip</key>
@@ -231,7 +231,7 @@
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>

@@ -8,7 +8,7 @@
   <screenWidth>0</screenWidth>
   <screenHeight>0</screenHeight>
   <fullscreen>False</fullscreen>
-  <uiScale>1</uiScale>
+  <uiScale>1.5</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
   <hatsOnlyOnMap>False</hatsOnlyOnMap>
   <plantWindSway>True</plantWindSway>
