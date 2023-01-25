@@ -11,7 +11,7 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
@@ -67,7 +67,7 @@
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugBurning</key>
@@ -135,7 +135,7 @@
     </li>
     <li>
       <key>CoverAndShooting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FormCaravan</key>
@@ -147,7 +147,7 @@
     </li>
     <li>
       <key>AnimalTraining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>InfoCard</key>
@@ -159,7 +159,7 @@
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
@@ -171,7 +171,7 @@
     </li>
     <li>
       <key>HostilityResponse</key>
-      <value>0</value>
+      <value>0.313841</value>
     </li>
     <li>
       <key>AllowedAreas</key>
@@ -179,7 +179,7 @@
     </li>
     <li>
       <key>MedicalOperations</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TimeAssignments</key>
@@ -199,7 +199,7 @@
     </li>
     <li>
       <key>Outfits</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>FirePreparation</key>
