@@ -1,0 +1,19 @@
+Log start... 
+------------------------------------------------------------------------
+Log: Material 'MainGroundMaterial' with Shader 'Shader Graphs/groundShaderV2' doesn't have a float or range property 'cloudsSmoothStepA'
+Stack: 
+------------------------------------------------------------------------
+Log: Material 'MainGroundMaterial' with Shader 'Shader Graphs/groundShaderV2' doesn't have a float or range property 'cloudsSmoothStepB'
+Stack: 
+------------------------------------------------------------------------
+Log: Issue applying obstacle for Flower plot - large blue(Clone) --- System.NullReferenceException: Object reference not set to an instance of an object
+  at Nielsen.ColliderController.ApplyObstacle () [0x00007] in <7de76b2f4eec4154ba9dd91fe427a674>:0 
+Stack: 
+------------------------------------------------------------------------
+Log: Issue applying obstacle for Flower plot - large blue(Clone) --- System.NullReferenceException: Object reference not set to an instance of an object
+  at Nielsen.ColliderController.ApplyObstacle () [0x00007] in <7de76b2f4eec4154ba9dd91fe427a674>:0 
+Stack: 
+------------------------------------------------------------------------
+Log: Tried to Make Stone Mason checks but failed: System.NullReferenceException: Object reference not set to an instance of an object
+  at CrowdAnimationInitializer.HandleStoneMasonImpact (GPUInstancer.CrowdAnimations.GPUICrowdPrefab crowdInstance, System.Single floatParam, System.Int32 intParam, System.String stringParam) [0x00045] in <7de76b2f4eec4154ba9dd91fe427a674>:0 
+Stack: 
