@@ -1,0 +1,16 @@
+Log start... 
+------------------------------------------------------------------------
+Log: Material 'MainGroundMaterial' with Shader 'Shader Graphs/groundShaderV2' doesn't have a float or range property 'cloudsSmoothStepA'
+Stack: 
+------------------------------------------------------------------------
+Log: Material 'MainGroundMaterial' with Shader 'Shader Graphs/groundShaderV2' doesn't have a float or range property 'cloudsSmoothStepB'
+Stack: 
+------------------------------------------------------------------------
+Log: Tried to play Stone Mason animation but failed: System.NullReferenceException: Object reference not set to an instance of an object
+  at CrowdAnimationInitializer.HandleStoneMasonImpact (GPUInstancer.CrowdAnimations.GPUICrowdPrefab crowdInstance, System.Single floatParam, System.Int32 intParam, System.String stringParam) [0x0008f] in <7de76b2f4eec4154ba9dd91fe427a674>:0 
+Stack: 
+------------------------------------------------------------------------
+Log: Tried to show an overwritable but failed: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject.SetActive(UnityEngine.GameObject,bool)
+  at Nielsen.Overwritable.Show () [0x00011] in <7de76b2f4eec4154ba9dd91fe427a674>:0 
+Stack: 
